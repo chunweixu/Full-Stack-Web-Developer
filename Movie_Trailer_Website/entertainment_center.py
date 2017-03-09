@@ -4,15 +4,13 @@ import fresh_tomatoes
 # define the list instance of movie
 avatar = media.Movie("Avatar",
                      "A marine on an alien planet",
-                     "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1488986608660&di=816ca90f1e60f0dd79d005453e1b49b8&imgtype=0&src=http%3A%2F%2Fszdaily.sznews.com%2Fres%2F1%2F1%2F2012-09%2F14%2F07%2Fres03_attpic_brief.jpg",
+                     "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1489037869449&di=cde4fd4ac4c45648b1031a7ed16e2503&imgtype=0&src=http%3A%2F%2Fimg2-ak.lst.fm%2Fi%2Fu%2F300x300%2Fc25f35ebbacc4920975b04a472f3f6c9.jpg",
                      "https://www.youtube.com/watch?v=5PSNL1qE6VY")
 	
-
 transformer = media.Movie("Transformer",
 	                      "Transformers: The Last Knight",
 	                      "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1488988756927&di=93160e236bb484c7637cfccd4f2740d7&imgtype=0&src=http%3A%2F%2Ftvj.5law.cn%2Ftv-Uploads%2Fvod%2F2016-07-30%2F579c2a4c8a50b.jpg",
 	                      "https://www.youtube.com/watch?v=153G7QEBK1I")
-
 
 kong = media.Movie("Kong",
 	               "Kong: Skull Island",
