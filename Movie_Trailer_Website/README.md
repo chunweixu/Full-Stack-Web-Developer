@@ -1,2 +1,1 @@
-# ud036_StarterCode
-Source code for a Movie Trailer website.
+double click fresh_tomatoes.html  or  run entertainment_center.py

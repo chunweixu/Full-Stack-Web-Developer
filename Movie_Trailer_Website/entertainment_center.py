@@ -1,6 +1,7 @@
 import media
 import fresh_tomatoes
 
+# define the list instance of movie
 avatar = media.Movie("Avatar",
                      "A marine on an alien planet",
                      "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1488986608660&di=816ca90f1e60f0dd79d005453e1b49b8&imgtype=0&src=http%3A%2F%2Fszdaily.sznews.com%2Fres%2F1%2F1%2F2012-09%2F14%2F07%2Fres03_attpic_brief.jpg",
@@ -19,6 +20,6 @@ kong = media.Movie("Kong",
 	               "https://www.youtube.com/watch?v=x8qPsAYQKuA")
 
 movies = [avatar, transformer, kong]
+
+# call function show the list of movies in the website 
 fresh_tomatoes.open_movies_page(movies)
-#print avatar.storyline
-#avatar.show_trailer()
