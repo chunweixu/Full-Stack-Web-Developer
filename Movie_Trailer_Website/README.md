@@ -1,1 +1,1 @@
-double click fresh_tomatoes.html  or  run command line 'python entertainment_center.py' in the terminal
+execute entertainment_center.py

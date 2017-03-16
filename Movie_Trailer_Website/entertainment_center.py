@@ -19,5 +19,6 @@ kong = media.Movie("Kong",
 
 movies = [avatar, transformer, kong]
 
-# call function show the list of movies in the website 
+# This function call users list of movie instances as input to generate an HTML file
+# and open it in the browser.
 fresh_tomatoes.open_movies_page(movies)
